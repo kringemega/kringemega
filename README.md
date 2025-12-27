@@ -1,16 +1,44 @@
-## Hi there 👋
-
-<!--
-**kringemega/kringemega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Krinj — Full-Stack / Network Developer
+Привет! Я разработчик, создающий клиенты, VPN-сервисы и сложные продукты с нуля.
+Работаю на стыке backend, desktop.
+🚀 Проекты
+SakuraClient
+🔗 https://sakuraclient.fun
+Клиент-модификация для Minecraft
+🧩 Мод на Java (реализация с активным использованием ChatGPT)
+🔐 Собственный C++ - лоадер
+🌐 Сайт и API на Django (Python)
+💾 Авторизация, защита клиента, система аккаунтов
+🎨 UI, визуальные эффекты, оптимизация
+AlmazineVPN
+🔗 https://almazinevpn.ru
+VPN-сервис на протоколе VLESS
+🛡 Протокол: VLESS
+🌍 Backend и сайт на Django (Python)
+📱 Android-приложение на Kotlin (разработка с использованием ChatGPT)
+🖥 Десктоп-клиент на C++
+👥 Панель управления, биллинг, подписки
+🛠 Навыки:
+Backend
+Python, Django
+Desktop
+C++, лаунчеры, сетевые клиенты
+Mobile
+Kotlin (c поддержкой chatgpt)
+Networking
+VLESS, VPN-архитектура
+Web
+HTML, CSS, JavaScript
+DevTools
+Git, windows, Nginx, Docker (ознакомлен в теории)
+🧠 О себе
+Основной язык: Python
+Изучаю и применяю C++
+Проектирую архитектуру проектов и соединяю backend, desktop, mobile
+Kotlin и Java использую при поддержке ChatGPT, полностью понимая логику и архитектуру кода
+Разрабатываю коммерческие сервисы и клиенты под реальную нагрузку
+📫 Контакты
+GitHub: github.com/Krinj
+Website: sakuraclient.fun
+VPN: almazinevpn.ru
+Telegram: @misterrobot1234
